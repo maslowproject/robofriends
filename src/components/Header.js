@@ -7,6 +7,6 @@ export default class Header extends Component {
 
   render() {
     console.log('header')
-    return <h1 className="f-subheadline">ROBOFRIENDS</h1> 
+    return <h1 className="f-1">ROBOFRIENDS</h1> 
   }
 }
